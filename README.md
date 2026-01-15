@@ -12,10 +12,6 @@
 
 📌 *I work at the intersection of statistical theory, interpretable machine learning, and real-world clinical data.*
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</div>
-
 ---
 
 ## 💬 A Short Conversation
