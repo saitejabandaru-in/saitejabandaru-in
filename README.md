@@ -10,6 +10,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1200&color=4F7CAC&center=true&vCenter=true&width=900&lines=Data+Science+with+clarity;AI+research+with+intent;Understanding+models+before+deploying+them" />
 </p>
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</div>
+
 📌 *I work at the intersection of statistical theory, interpretable machine learning, and real-world clinical data.*
 
 ---
