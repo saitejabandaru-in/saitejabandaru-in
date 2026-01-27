@@ -114,7 +114,7 @@ This work introduces a permutation-based, nonparametric framework for analyzing 
 
 ## 🚀 What You’ll Find Here
 
-- 📘 math- and statistics-first explanations of ML & AI  
+- 📘 math and statistics-first explanations of ML & AI  
 - 🧪 reproducible experiments with robust inference  
 - 📊 real-world clinical and analytical datasets  
 - 🧠 research-oriented notebooks focused on *why*, not just *how*  
