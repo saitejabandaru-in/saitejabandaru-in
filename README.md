@@ -60,6 +60,29 @@ My research interests include:
 
 ---
 
+## 🚀 Featured Open Source Projects
+
+### 📄 [papersearch-mcp](https://github.com/saitejabandaru-in/papersearch-mcp)
+*An Model Context Protocol (MCP) server for searching, analyzing, and retrieving academic papers.*
+- **Purpose**: Integrates arXiv and Semantic Scholar directly into AI coding assistants (like Claude Code/Desktop).
+- **Features**: Page-level text extraction from PDFs using PyMuPDF (fitz), citation graph traversal, and advanced search filters.
+- **Tech**: FastMCP, Python, HTTPX, PyMuPDF.
+
+### 🧬 [nf-risk-stratification](https://github.com/saitejabandaru-in/nf-risk-stratification)
+*Nonparametric Combination (NPC) and bootstrap-based risk stratification model.*
+- **Purpose**: Reproducible statistical analysis framework for our peer-reviewed research in Necrotizing Fasciitis.
+- **Tech**: Python, NumPy, Pandas, Scipy.
+
+---
+
+## 🌐 Ecosystem Contributions
+
+I actively contribute to core libraries in the Python machine learning and scientific computing ecosystem:
+
+- **[scikit-learn](https://github.com/scikit-learn/scikit-learn)**: Overrode the `fit` method on `ExtraTreeClassifier` and `ExtraTreeRegressor` to document the correct returned types and build descriptions ([PR #34249](https://github.com/scikit-learn/scikit-learn/pull/34249)).
+
+---
+
 ## 📄 Research Paper
 
 **Permutation-Based Analysis of Clinical Variables in Necrotizing Fasciitis Using NPC and Bootstrap**  
