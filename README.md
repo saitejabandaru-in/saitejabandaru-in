@@ -73,6 +73,11 @@ My research interests include:
 - **Purpose**: Reproducible statistical analysis framework for our peer-reviewed research in Necrotizing Fasciitis.
 - **Tech**: Python, NumPy, Pandas, Scipy.
 
+### 🏥 [clinical-nlp-ai-platform](https://github.com/saitejabandaru-in/clinical-nlp-ai-platform)
+*End-to-end clinical NLP platform for medical entity extraction, clinical sentiment analysis, topic modeling, and automated ICD coding.*
+- **Purpose**: Privacy-preserving processing and deep learning pipelines for unstructured health records.
+- **Tech**: Python, PyTorch, Transformers, FastAPI.
+
 ---
 
 ## 🌐 Ecosystem Contributions
