@@ -82,9 +82,10 @@ My research interests include:
 
 ## 🌐 Ecosystem Contributions
 
-I actively contribute to core libraries in the Python machine learning and scientific computing ecosystem:
+I actively participate in bug triaging, Q&A, and technical discussion forums across key scientific Python and developer libraries:
 
-- **[scikit-learn](https://github.com/scikit-learn/scikit-learn)**: Overrode the `fit` method on `ExtraTreeClassifier` and `ExtraTreeRegressor` to document the correct returned types and build descriptions ([PR #34249](https://github.com/scikit-learn/scikit-learn/pull/34249)).
+- **scikit-learn**: Contributing technical solutions for community questions on discussions (e.g. customized Gower's distance implementations, tree routing diagnostics).
+- **FastAPI / Next.js**: Supporting developers in resolving configuration and execution issues in production settings.
 
 ---
 
