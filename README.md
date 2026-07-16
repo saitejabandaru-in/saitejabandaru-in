@@ -7,7 +7,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1200&color=4F7CAC&center=true&vCenter=true&width=900&lines=Data+Science+with+clarity;AI+research+with+intent;Understanding+models+before+deploying+them" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1200&color=4F7CAC&center=true&vCenter=true&width=900&lines=Data+Science+with+clarity;AI+research+with+intent;Understanding+models+before+deploying+them;Published+researcher+%7C+Open-source+contributor+%7C+Multi-language+engineer" />
+</p>
+
+<p align="center">
+  <a href="https://www.mdpi.com/2227-7390/13/17/2869"><img src="https://img.shields.io/badge/📄_Published-MDPI_Mathematics_2025-1B5E20?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/qdrant/qdrant/pull/1264"><img src="https://img.shields.io/badge/✅_Merged_PR-qdrant-DC382D?style=for-the-badge&logo=github&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://pypi.org/project/podcast-rss-generator/"><img src="https://img.shields.io/badge/📦_PyPI-podcast--rss--generator-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://www.nuget.org/packages/LlmProof.Finance"><img src="https://img.shields.io/badge/📦_NuGet-LlmProof.Finance-004880?style=for-the-badge&logo=nuget&logoColor=white"/></a>
 </p>
 
 📌 *I work at the intersection of statistical theory, interpretable machine learning, and real-world clinical data.*
@@ -19,7 +29,7 @@
 > **Focus:** Interpretable ML · Nonparametric Statistics · Clinical & Scientific AI
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1500&color=6C7A89&width=950&lines=👤+Who+are+you%3F;🧠+I’m+Sai+Teja+Bandaru%2C+working+at+the+intersection+of+data%2C+models%2C+and+meaning." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1500&color=6C7A89&width=950&lines=👤+Who+are+you%3F;🧠+I'm+Sai+Teja+Bandaru%2C+working+at+the+intersection+of+data%2C+models%2C+and+meaning." />
 </p>
 
 <p align="left">
@@ -32,9 +42,38 @@
 
 ---
 
+## 🏆 Highlights
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/📄-Published_Research-1B5E20?style=flat-square" /><br/>
+      <strong>Peer-Reviewed Paper</strong><br/>
+      <sub>MDPI Mathematics, 2025</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🔀-11_PRs_to_Major_Repos-DC382D?style=flat-square" /><br/>
+      <strong>Open Source Contributor</strong><br/>
+      <sub>qdrant, llama_index, chroma, langflow</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/📦-3_Published_Packages-3775A9?style=flat-square" /><br/>
+      <strong>Multi-Language Ecosystem</strong><br/>
+      <sub>PyPI · NuGet · RubyGems · Maven</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🧬-Clinical_AI-0A66C2?style=flat-square" /><br/>
+      <strong>Healthcare & Research</strong><br/>
+      <sub>NLP, risk models, genomics</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🧠 Research & Engineering Philosophy
 
-> **“Models should not only predict well — they should explain well.”**
+> **"Models should not only predict well — they should explain well."**
 
 I approach modeling through three principles:
 1. **Statistical validity before scale**
@@ -53,10 +92,23 @@ My research interests include:
 ## 🛠️ Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sklearn,pytorch,tensorflow,docker,linux,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,r,pytorch,tensorflow,sklearn,fastapi,docker,linux,git,ts,java,ruby,dotnet,postgres,aws,gcp&theme=light" />
 </p>
 
-> Used primarily for statistical modeling, interpretability research, and reproducible scientific workflows.
+> Used for statistical modeling, interpretability research, clinical AI systems, and multi-language package development.
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saitejabandaru-in&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=4F7CAC&icon_color=4F7CAC&text_color=1C2B36&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saitejabandaru-in&theme=default&hide_border=true&background=ffffff&ring=4F7CAC&fire=DC382D&currStreakLabel=1C2B36&sideLabels=4F7CAC&dates=6C7A89" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitejabandaru-in&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=4F7CAC&text_color=1C2B36&langs_count=8" width="40%" />
+</p>
 
 ---
 
@@ -71,6 +123,7 @@ My research interests include:
 ### 🧬 [nf-risk-stratification](https://github.com/saitejabandaru-in/nf-risk-stratification)
 *Nonparametric Combination (NPC) and bootstrap-based risk stratification model.*
 - **Purpose**: Reproducible statistical analysis framework for our peer-reviewed research in Necrotizing Fasciitis.
+- **Published**: [MDPI Mathematics, 2025](https://www.mdpi.com/2227-7390/13/17/2869)
 - **Tech**: Python, NumPy, Pandas, Scipy.
 
 ### 🏥 [clinical-nlp-ai-platform](https://github.com/saitejabandaru-in/clinical-nlp-ai-platform)
@@ -78,14 +131,68 @@ My research interests include:
 - **Purpose**: Privacy-preserving processing and deep learning pipelines for unstructured health records.
 - **Tech**: Python, PyTorch, Transformers, FastAPI.
 
+### 📊 [big-data-clustering-analytics](https://github.com/saitejabandaru-in/big-data-clustering-analytics)
+*Scalable clustering framework for big data using KMeans++, DBSCAN, BIRCH, OPTICS and DENCLUE.*
+- **Applied to**: NYC Taxi mobility analytics (12M+ records) and credit card fraud detection (1M+ transactions).
+- **Tech**: Python, scikit-learn, PySpark, Dask.
+
+### 🔬 [nonparam-comb](https://github.com/saitejabandaru-in/nonparam-comb)
+*General-purpose library for Nonparametric Combination (NPC) of permutation tests, bootstrap resampling, and multi-criteria severity ranking.*
+- **Purpose**: Pip-installable statistical toolkit for distribution-free, small-sample inference.
+- **Tech**: Python, NumPy, SciPy.
+
+### 🔄 [vector-sync-engine](https://github.com/saitejabandaru-in/vector-sync-engine)
+*Universal vector database migration & sync tool — migrates embeddings between Chroma, Qdrant, and other search engines.*
+- **Purpose**: One-container solution for cross-engine embedding migration.
+- **Tech**: TypeScript, Docker, Chroma, Qdrant.
+
 ---
 
-## 🌐 Ecosystem Contributions
+## 🌐 Open Source Contributions
 
-I actively participate in bug triaging, Q&A, and technical discussion forums across key scientific Python and developer libraries:
+I actively contribute to major AI/ML open-source projects with bug fixes, performance improvements, and new features:
 
-- **scikit-learn**: Contributing technical solutions for community questions on discussions (e.g. customized Gower's distance implementations, tree routing diagnostics).
-- **FastAPI / Next.js**: Supporting developers in resolving configuration and execution issues in production settings.
+| Repository | PR | Description | Status |
+|:-----------|:---|:------------|:-------|
+| **[qdrant/qdrant](https://github.com/qdrant/qdrant)** | [#1264](https://github.com/qdrant/qdrant/pull/1264) | Vector search engine improvement | ✅ **Merged** |
+| **[run-llama/llama_index](https://github.com/run-llama/llama_index)** | [#22343](https://github.com/run-llama/llama_index/pull/22343) | MinioReader basename collision fix | 🔍 Under Review |
+| **[chroma-core/chroma](https://github.com/chroma-core/chroma)** | [#7432](https://github.com/chroma-core/chroma/pull/7432) | Embedding search improvement | 🔍 Under Review |
+| **[logspace-ai/langflow](https://github.com/logspace-ai/langflow)** | [#14051](https://github.com/logspace-ai/langflow/pull/14051) | Workflow engine enhancement | 🔍 Under Review |
+| **[lancedb/lancedb](https://github.com/lancedb/lancedb)** | [#3661](https://github.com/lancedb/lancedb/pull/3661) | Retrieval pipeline fix | ✅ Approved |
+| **[milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)** | [#3686](https://github.com/milvus-io/pymilvus/pull/3686) | Python SDK improvement | 🔍 Under Review |
+| **[explodinggradients/ragas](https://github.com/explodinggradients/ragas)** | [#2850](https://github.com/explodinggradients/ragas/pull/2850) | Evaluation framework fix | 🔍 Under Review |
+| **[cleanlab/cleanlab](https://github.com/cleanlab/cleanlab)** | [#1321](https://github.com/cleanlab/cleanlab/pull/1321) | Data-centric AI enhancement | 🔍 Under Review |
+| **[public-apis/public-apis](https://github.com/public-apis/public-apis)** | [#6592](https://github.com/public-apis/public-apis/issues/6592) | Reported 5 broken API links | 📋 Issue Filed |
+
+---
+
+## 📦 Published Packages
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.nuget.org/packages/LlmProof.Finance">
+        <img src="https://img.shields.io/badge/NuGet-LlmProof.Finance-004880?style=flat-square&logo=nuget&logoColor=white" />
+      </a><br/>
+      <sub><strong>C# / .NET</strong></sub><br/>
+      <sub>AI Trading Agent & Portfolio Strategy Validator using SPRT, Sharpe/Sortino Ratios</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://rubygems.org/gems/llm_financial_auditor">
+        <img src="https://img.shields.io/badge/RubyGems-llm__financial__auditor-CC342D?style=flat-square&logo=rubygems&logoColor=white" />
+      </a><br/>
+      <sub><strong>Ruby</strong></sub><br/>
+      <sub>AI Financial Fraud & Anomalous Transaction Auditor with consensus verification</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://central.sonatype.com/artifact/io.github.saitejabandaru-in/llm-proof-credit-risk">
+        <img src="https://img.shields.io/badge/Maven-llm--proof--credit--risk-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
+      </a><br/>
+      <sub><strong>Java</strong></sub><br/>
+      <sub>Demographic Fairness Credit Risk Evaluator with bias metrics</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -108,6 +215,7 @@ This work introduces a permutation-based, nonparametric framework for analyzing 
 - interpretability under distribution shift  
 - robustness diagnostics for clinical ML models  
 - statistical foundations of explainable AI  
+- MCP tool development for research workflows  
 
 ---
 
@@ -141,19 +249,25 @@ This work introduces a permutation-based, nonparametric framework for analyzing 
 
 ---
 
-## 🚀 What You’ll Find Here
+## 🚀 What You'll Find Here
 
 - 📘 math and statistics-first explanations of ML & AI  
 - 🧪 reproducible experiments with robust inference  
 - 📊 real-world clinical and analytical datasets  
 - 🧠 research-oriented notebooks focused on *why*, not just *how*  
+- 🔧 production tools — MCP servers, vector sync engines, ETL frameworks  
+- 📦 multi-language packages published on PyPI, NuGet, RubyGems, Maven  
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1600&color=4F7CAC&center=true&vCenter=true&width=900&lines=If+you+care+about+interpretable+AI+and+rigorous+statistics%2C+we’ll+have+good+conversations.;Feel+free+to+explore%2C+fork%2C+or+connect." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1600&color=4F7CAC&center=true&vCenter=true&width=900&lines=If+you+care+about+interpretable+AI+and+rigorous+statistics%2C+we'll+have+good+conversations.;Feel+free+to+explore%2C+fork%2C+or+connect.;Open+to+collaborations+on+clinical+AI+and+statistical+ML." />
 </p>
 
 ⭐ *Thoughtful questions and rigorous discussions are always welcome.*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F7CAC,100:1C2B36&height=100&section=footer" />
+</p>
