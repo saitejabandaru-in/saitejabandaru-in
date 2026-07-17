@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.mdpi.com/2227-7390/13/17/2869"><img src="https://img.shields.io/badge/📄_Published-MDPI_Mathematics_2025-1B5E20?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
+  <a href="https://www.mdpi.com/2227-7390/13/17/2869"><img src="https://img.shields.io/badge/Published-MDPI_Mathematics_2025-1B5E20?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
   &nbsp;
-  <a href="https://github.com/qdrant/qdrant/pull/1264"><img src="https://img.shields.io/badge/✅_Merged_PR-qdrant-DC382D?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/qdrant/qdrant/pull/1264"><img src="https://img.shields.io/badge/Merged_PR-qdrant-DC382D?style=for-the-badge&logo=github&logoColor=white"/></a>
   &nbsp;
-  <a href="https://pypi.org/project/podcast-rss-generator/"><img src="https://img.shields.io/badge/📦_PyPI-podcast--rss--generator-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/></a>
+  <a href="https://pypi.org/project/podcast-rss-generator/"><img src="https://img.shields.io/badge/PyPI-podcast--rss--generator-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/></a>
   &nbsp;
-  <a href="https://www.nuget.org/packages/LlmProof.Finance"><img src="https://img.shields.io/badge/📦_NuGet-LlmProof.Finance-004880?style=for-the-badge&logo=nuget&logoColor=white"/></a>
+  <a href="https://www.nuget.org/packages/LlmProof.Finance"><img src="https://img.shields.io/badge/NuGet-LlmProof.Finance-004880?style=for-the-badge&logo=nuget&logoColor=white"/></a>
 </p>
 
 📌 *I work at the intersection of statistical theory, interpretable machine learning, and real-world clinical data.*
@@ -26,19 +26,14 @@
 
 ## 💬 A Short Conversation
 
-> **Focus:** Interpretable ML · Nonparametric Statistics · Clinical & Scientific AI
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1500&color=6C7A89&width=950&lines=👤+Who+are+you%3F;🧠+I'm+Sai+Teja+Bandaru%2C+working+at+the+intersection+of+data%2C+models%2C+and+meaning." />
-</p>
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1500&color=6C7A89&width=950&lines=👤+What+do+you+focus+on%3F;📊+Interpretable+machine+learning+and+research-driven+AI+systems." />
-</p>
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1500&color=6C7A89&width=950&lines=👤+What+guides+your+work%3F;✨+Clarity+over+complexity%2C+understanding+over+black+boxes." />
-</p>
+* **👤 Who are you?**  
+  🧠 I’m **Sai Teja Bandaru**, working at the intersection of data, models, and meaning.
+  
+* **👤 What do you focus on?**  
+  📊 **Interpretable machine learning** and research-driven AI systems.
+  
+* **👤 What guides your work?**  
+  ✨ **Clarity over complexity**, understanding over black boxes.
 
 ---
 
@@ -47,22 +42,22 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/📄-Published_Research-1B5E20?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Paper-Published_Research-1B5E20?style=flat-square" /><br/>
       <strong>Peer-Reviewed Paper</strong><br/>
       <sub>MDPI Mathematics, 2025</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/🔀-11_PRs_to_Major_Repos-DC382D?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/PRs-11_PRs_to_Major_Repos-DC382D?style=flat-square" /><br/>
       <strong>Open Source Contributor</strong><br/>
       <sub>qdrant, llama_index, chroma, langflow</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/📦-3_Published_Packages-3775A9?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Packages-3_Published_Packages-3775A9?style=flat-square" /><br/>
       <strong>Multi-Language Ecosystem</strong><br/>
       <sub>PyPI · NuGet · RubyGems · Maven</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/🧬-Clinical_AI-0A66C2?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/AI-Clinical_AI-0A66C2?style=flat-square" /><br/>
       <strong>Healthcare & Research</strong><br/>
       <sub>NLP, risk models, genomics</sub>
     </td>
