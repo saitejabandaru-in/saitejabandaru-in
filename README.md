@@ -97,12 +97,7 @@ My research interests include:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saitejabandaru-in&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=4F7CAC&icon_color=4F7CAC&text_color=1C2B36&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saitejabandaru-in&theme=default&hide_border=true&background=ffffff&ring=4F7CAC&fire=DC382D&currStreakLabel=1C2B36&sideLabels=4F7CAC&dates=6C7A89" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitejabandaru-in&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=4F7CAC&text_color=1C2B36&langs_count=8" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saitejabandaru-in&theme=default&hide_border=true&background=ffffff&ring=4F7CAC&fire=DC382D&currStreakLabel=1C2B36&sideLabels=4F7CAC&dates=6C7A89" width="60%" />
 </p>
 
 ---
