@@ -10,13 +10,33 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1200&color=4F7CAC&center=true&vCenter=true&width=900&lines=Data+Science+with+clarity;AI+research+with+intent;Understanding+models+before+deploying+them;Published+researcher+%7C+Open-source+contributor+%7C+Multi-language+engineer" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/saitejabandaru-ds/"><img src="https://img.shields.io/badge/Hire_Me-Open_to_Roles-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://github.com/sponsors/saitejabandaru-in"><img src="https://img.shields.io/badge/Sponsor_My_Work-Support_OSS-DB7093?style=for-the-badge&logo=github-sponsors&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:Saitejaroyal2311@gmail.com"><img src="https://img.shields.io/badge/Email_Me-Get_in_Touch-1B5E20?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h3>🚀 Collaboration</h3>
+      <p><sub>For founders and startups seeking customized AI agents, vector database scaling, or interpretable modeling.</sub></p>
+      <a href="https://www.linkedin.com/in/saitejabandaru-ds/">
+        <img src="https://img.shields.io/badge/Work_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>💖 Sponsorship</h3>
+      <p><sub>Help fund the development and deployment of premium open-source AI infrastructure and statistical tools.</sub></p>
+      <a href="https://github.com/sponsors/saitejabandaru-in">
+        <img src="https://img.shields.io/badge/Sponsor_OSS-DB7093?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>✉️ Get in Touch</h3>
+      <p><sub>Open for technical consulting, research paper discussions, or corporate opportunities.</sub></p>
+      <a href="mailto:Saitejaroyal2311@gmail.com">
+        <img src="https://img.shields.io/badge/Email_Me-1B5E20?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <p align="center">
   <a href="https://www.mdpi.com/2227-7390/13/17/2869"><img src="https://img.shields.io/badge/Published-MDPI_Mathematics_2025-1B5E20?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
