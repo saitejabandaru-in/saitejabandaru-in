@@ -13,24 +13,18 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%" valign="top">
-      <h3>🚀 Collaboration</h3>
-      <p><sub>For founders and startups seeking customized AI agents, vector database scaling, or interpretable modeling.</sub></p>
       <a href="https://www.linkedin.com/in/saitejabandaru-ds/">
-        <img src="https://img.shields.io/badge/Work_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img src="assets/collab.svg" width="100%" alt="Collaboration Card" />
       </a>
     </td>
     <td align="center" width="33%" valign="top">
-      <h3>💖 Sponsorship</h3>
-      <p><sub>Help fund the development and deployment of premium open-source AI infrastructure and statistical tools.</sub></p>
       <a href="https://github.com/sponsors/saitejabandaru-in">
-        <img src="https://img.shields.io/badge/Sponsor_OSS-DB7093?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+        <img src="assets/sponsor.svg" width="100%" alt="Sponsorship Card" />
       </a>
     </td>
     <td align="center" width="33%" valign="top">
-      <h3>✉️ Get in Touch</h3>
-      <p><sub>Open for technical consulting, research paper discussions, or corporate opportunities.</sub></p>
       <a href="mailto:Saitejaroyal2311@gmail.com">
-        <img src="https://img.shields.io/badge/Email_Me-1B5E20?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img src="assets/contact.svg" width="100%" alt="Contact Card" />
       </a>
     </td>
   </tr>
