@@ -275,10 +275,10 @@ This work introduces a permutation-based, nonparametric framework for analyzing 
 
 ## 🔍 Current Research Directions
 
-* 🧬 **Biomedical Inference**: Permutation-based, nonparametric tests for small-sample and rare-disease studies.
-* 📈 **Interpretability under Shift**: Feature attribution methods that remain robust under covariance and distribution shifts.
-* 🛡️ **Model Diagnostics**: Developing automated validation suites for clinical model stability, safety, and robustness.
-* 🔧 **Ecosystem Tooling**: Constructing FastMCP servers to integrate scientific and literature databases into agentic search.
+* 🧬 **High-Precision Biomedical AI**: Designing mathematically rigorous, permutation-based nonparametric statistical engines for rare diseases and small-sample clinical datasets.
+* 📈 **Robust & Explainable ML (XAI)**: Developing invariant feature attribution and post-hoc explanation frameworks that maintain mathematical consistency under severe covariate and distribution shifts.
+* 🛡️ **Production AI Guardrails & Validation**: Building automated evaluation suites, stability tests, and performance diagnostics to guarantee safety, reproducibility, and alignment in high-stakes clinical and financial ML deployments.
+* 🔧 **Developer Tooling & Agentic Integrations**: Architecting FastMCP (Model Context Protocol) servers to seamlessly link scientific databases (arXiv, PubMed, gnomAD) with next-generation LLM agents and coding systems.
 
 ---
 
