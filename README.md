@@ -11,6 +11,14 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/saitejabandaru-ds/"><img src="https://img.shields.io/badge/Hire_Me-Open_to_Roles-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://github.com/sponsors/saitejabandaru-in"><img src="https://img.shields.io/badge/Sponsor_My_Work-Support_OSS-DB7093?style=for-the-badge&logo=github-sponsors&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:Saitejaroyal2311@gmail.com"><img src="https://img.shields.io/badge/Email_Me-Get_in_Touch-1B5E20?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
   <a href="https://www.mdpi.com/2227-7390/13/17/2869"><img src="https://img.shields.io/badge/Published-MDPI_Mathematics_2025-1B5E20?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
   &nbsp;
   <a href="https://github.com/qdrant/qdrant/pull/1264"><img src="https://img.shields.io/badge/Merged_PR-qdrant-DC382D?style=for-the-badge&logo=github&logoColor=white"/></a>
