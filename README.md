@@ -53,14 +53,17 @@
 
 ## 💬 A Short Conversation
 
-* **👤 Who are you?**  
-  🧠 I’m **Sai Teja Bandaru**, working at the intersection of data, models, and meaning.
-  
-* **👤 What do you focus on?**  
-  📊 **Interpretable machine learning** and research-driven AI systems.
-  
-* **👤 What guides your work?**  
-  ✨ **Clarity over complexity**, understanding over black boxes.
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1500&color=6C7A89&width=950&lines=👤+Who+are+you%3F;🧠+I'm+Sai+Teja+Bandaru%2C+working+at+the+intersection+of+data%2C+models%2C+and+meaning." />
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1500&color=6C7A89&width=950&lines=👤+What+do+you+focus+on%3F;📊+Interpretable+machine+learning+and+research-driven+AI+systems." />
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1500&color=6C7A89&width=950&lines=👤+What+guides+your+work%3F;✨+Clarity+over+complexity%2C+understanding+over+black+boxes." />
+</p>
 
 ---
 
@@ -279,7 +282,7 @@ This work introduces a permutation-based, nonparametric framework for analyzing 
 ## 🤝 Let's Connect
 
 <p align="center">
-  If you are passionate about interpretable machine learning, rigorous statistical modeling, or open-source infrastructure, feel free to reach out. I am always open to deep technical discussions, research collaborations, or custom AI agent engineering.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1600&color=4F7CAC&center=true&vCenter=true&width=900&lines=If+you+are+passionate+about+interpretable+ML+or+open-source+infrastructure%2C+feel+free+to+reach+out.;Always+open+to+deep+technical+discussions%2C+research+collaborations%2C+or+agent+engineering." />
 </p>
 
 <p align="center">
