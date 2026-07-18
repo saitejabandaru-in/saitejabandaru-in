@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  📌 <em>I work at the intersection of statistical theory, interpretable machine learning, and real-world clinical data.</em>
+  🚀 <strong>AI Systems Engineer &amp; Open Source Builder</strong> specializing in <strong>Interpretable ML</strong>, <strong>Vector Databases (Qdrant/Chroma)</strong>, and <strong>Custom AI Agents</strong> — building production-ready, mathematically rigorous intelligence pipelines for global startups and research teams.
 </p>
 
 ---
