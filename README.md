@@ -190,25 +190,25 @@ I actively contribute to major AI/ML open-source projects with bug fixes, perfor
 <table width="100%">
   <tr>
     <td align="center" width="33%" valign="top">
-      <h4>NuGet Registry</h4>
       <a href="https://www.nuget.org/packages/LlmProof.Finance">
-        <img src="https://img.shields.io/badge/NuGet-LlmProof.Finance-004880?style=for-the-badge&logo=nuget&logoColor=white" />
-      </a>
-      <p><sub><strong>C# / .NET</strong> — AI Trading Agent &amp; Portfolio Strategy Validator utilizing SPRT and Sharpe/Sortino ratios.</sub></p>
+        <img src="https://img.shields.io/badge/NuGet-LlmProof.Finance-004880?style=flat-square&logo=nuget&logoColor=white" />
+      </a><br/>
+      <sub><strong>C# / .NET</strong></sub><br/>
+      <sub>AI Trading Agent &amp; Portfolio Strategy Validator using SPRT, Sharpe/Sortino Ratios</sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <h4>RubyGems Registry</h4>
       <a href="https://rubygems.org/gems/llm_financial_auditor">
-        <img src="https://img.shields.io/badge/RubyGems-llm__financial__auditor-CC342D?style=for-the-badge&logo=rubygems&logoColor=white" />
-      </a>
-      <p><sub><strong>Ruby</strong> — AI Financial Fraud &amp; Anomalous Transaction Auditor with consensus-based verification layers.</sub></p>
+        <img src="https://img.shields.io/badge/RubyGems-llm__financial__auditor-CC342D?style=flat-square&logo=rubygems&logoColor=white" />
+      </a><br/>
+      <sub><strong>Ruby</strong></sub><br/>
+      <sub>AI Financial Fraud &amp; Anomalous Transaction Auditor with consensus verification</sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <h4>Maven Central</h4>
       <a href="https://central.sonatype.com/artifact/io.github.saitejabandaru-in/llm-proof-credit-risk">
-        <img src="https://img.shields.io/badge/Maven-llm--proof--credit-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-      </a>
-      <p><sub><strong>Java</strong> — Demographic Fairness &amp; Credit Risk Evaluator utilizing bias mitigation metrics.</sub></p>
+        <img src="https://img.shields.io/badge/Maven-llm--proof--credit--risk-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
+      </a><br/>
+      <sub><strong>Java</strong></sub><br/>
+      <sub>Demographic Fairness Credit Risk Evaluator with bias metrics</sub>
     </td>
   </tr>
 </table>
