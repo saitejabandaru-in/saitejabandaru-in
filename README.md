@@ -239,31 +239,46 @@ This work introduces a permutation-based, nonparametric framework for analyzing 
 
 ## 🔗 Research & Professional Profiles
 
-<p align="center">
-  <a href="https://www.saitejabandaru.com/" target="_blank">
-    <img src="https://img.shields.io/badge/saitejabandaru.com-4F7CAC?style=flat-square&logo=google-chrome&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://scholar.google.com/citations?user=lVrMCY4AAAAJ&hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://sciprofiles.com/profile/saitejabandaru" target="_blank">
-    <img src="https://img.shields.io/badge/SciProfiles-MDPI-1B5E20?style=flat-square"/>
-  </a>
-  &nbsp;
-  <a href="https://orcid.org/0009-0006-7797-2635" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-0009--0006--7797--2635-A6CE39?style=flat-square&logo=orcid&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.researchgate.net/profile/Sai-Teja-Bandaru" target="_blank">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/saitejabandaru-ds/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="16%" valign="top">
+      <a href="https://www.saitejabandaru.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Website-12100E?style=for-the-badge&logo=google-chrome&logoColor=white" /><br/>
+        <sub>saitejabandaru.com</sub>
+      </a>
+    </td>
+    <td align="center" width="16%" valign="top">
+      <a href="https://scholar.google.com/citations?user=lVrMCY4AAAAJ&hl=en" target="_blank">
+        <img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /><br/>
+        <sub>Google Scholar</sub>
+      </a>
+    </td>
+    <td align="center" width="16%" valign="top">
+      <a href="https://sciprofiles.com/profile/saitejabandaru" target="_blank">
+        <img src="https://img.shields.io/badge/SciProfiles-1B5E20?style=for-the-badge&logo=mdpi&logoColor=white" /><br/>
+        <sub>MDPI Profiles</sub>
+      </a>
+    </td>
+    <td align="center" width="16%" valign="top">
+      <a href="https://orcid.org/0009-0006-7797-2635" target="_blank">
+        <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /><br/>
+        <sub>0009-0006-7797-2635</sub>
+      </a>
+    </td>
+    <td align="center" width="16%" valign="top">
+      <a href="https://www.researchgate.net/profile/Sai-Teja-Bandaru" target="_blank">
+        <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /><br/>
+        <sub>ResearchGate</sub>
+      </a>
+    </td>
+    <td align="center" width="16%" valign="top">
+      <a href="https://www.linkedin.com/in/saitejabandaru-ds/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
+        <sub>saitejabandaru-ds</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
