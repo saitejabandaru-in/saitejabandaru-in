@@ -209,7 +209,7 @@ I actively contribute to major AI/ML open-source projects with bug fixes, perfor
 | **[logspace-ai/langflow](https://github.com/logspace-ai/langflow)** | [#14051](https://github.com/logspace-ai/langflow/pull/14051) | Workflow engine enhancement | 🔍 Under Review |
 | **[lancedb/lancedb](https://github.com/lancedb/lancedb)** | [#3661](https://github.com/lancedb/lancedb/pull/3661) | Retrieval pipeline fix | ✅ Approved |
 | **[milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)** | [#3686](https://github.com/milvus-io/pymilvus/pull/3686) | Python SDK improvement | 🔍 Under Review |
-| **[explodinggradients/ragas](https://github.com/explodinggradients/ragas)** | [#2850](https://github.com/vibrantlabsai/ragas/pull/2850) | Evaluation framework fix | 🔍 Under Review |
+| **[explodinggradients/ragas](https://github.com/explodinggradients/ragas)** | [#2850](https://github.com/explodinggradients/ragas/pull/2850) | Evaluation framework fix | 🔍 Under Review |
 | **[cleanlab/cleanlab](https://github.com/cleanlab/cleanlab)** | [#1321](https://github.com/cleanlab/cleanlab/pull/1321) | Data-centric AI enhancement | 🔍 Under Review |
 | **[public-apis/public-apis](https://github.com/public-apis/public-apis)** | [#6592](https://github.com/public-apis/public-apis/issues/6592) | Reported 5 broken API links | 📋 Issue Filed |
 <!-- END_OSS_TABLE -->
