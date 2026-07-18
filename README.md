@@ -142,6 +142,7 @@ My research interests include:
 
 I actively contribute to major AI/ML open-source projects with bug fixes, performance improvements, and new features:
 
+<!-- START_OSS_TABLE -->
 | Repository | PR | Description | Status |
 |:-----------|:---|:------------|:-------|
 | **[qdrant/qdrant](https://github.com/qdrant/qdrant)** | [#1264](https://github.com/qdrant/qdrant/pull/1264) | Vector search engine improvement | ✅ **Merged** |
@@ -153,6 +154,7 @@ I actively contribute to major AI/ML open-source projects with bug fixes, perfor
 | **[explodinggradients/ragas](https://github.com/explodinggradients/ragas)** | [#2850](https://github.com/explodinggradients/ragas/pull/2850) | Evaluation framework fix | 🔍 Under Review |
 | **[cleanlab/cleanlab](https://github.com/cleanlab/cleanlab)** | [#1321](https://github.com/cleanlab/cleanlab/pull/1321) | Data-centric AI enhancement | 🔍 Under Review |
 | **[public-apis/public-apis](https://github.com/public-apis/public-apis)** | [#6592](https://github.com/public-apis/public-apis/issues/6592) | Reported 5 broken API links | 📋 Issue Filed |
+<!-- END_OSS_TABLE -->
 
 ### 🏆 Selected Technical Deep Dives
 
