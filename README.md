@@ -154,6 +154,20 @@ I actively contribute to major AI/ML open-source projects with bug fixes, perfor
 | **[cleanlab/cleanlab](https://github.com/cleanlab/cleanlab)** | [#1321](https://github.com/cleanlab/cleanlab/pull/1321) | Data-centric AI enhancement | 🔍 Under Review |
 | **[public-apis/public-apis](https://github.com/public-apis/public-apis)** | [#6592](https://github.com/public-apis/public-apis/issues/6592) | Reported 5 broken API links | 📋 Issue Filed |
 
+### 🏆 Selected Technical Deep Dives
+
+* **lancedb/lancedb#3661 — Workspace Manifest & Dependency Refactoring (Approved ✅)**
+  * **System Impact**: Resolved a blocking issue in the workspace linter (`cargo deny`) triggered by yanked upstream crates (like `spin v0.10.0`), and resolved duplicate developer dependency declarations.
+  * **Key Technologies**: Rust, Cargo Workspace, CI/CD Linters.
+
+* **milvus-io/pymilvus#3686 — Environment Configuration Security & Type Safety (Under Review 🔍)**
+  * **System Impact**: Patched SDK settings parser to prevent unauthorized loading of `.env` configurations when the `PYTHON_DOTENV_DISABLED` flag is set, and resolved a runtime `TypeError` caused by uninitialized variables.
+  * **Key Technologies**: Python, python-dotenv, Environment Management.
+
+* **chroma-core/chroma#7432 — Test Suite Isolation & Connection Refactoring (Under Review 🔍)**
+  * **System Impact**: Redesigned test fixtures for FastAPI SSL connections to run isolated database instances, resolving race conditions and connection leaks in the testing environment.
+  * **Key Technologies**: Python, Pytest, FastAPI, SQLite.
+
 ---
 
 ## 📦 Published Packages
