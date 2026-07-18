@@ -92,34 +92,11 @@ My research interests include:
 
 ## 🛠️ Technical Skill Matrix
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <h4>🧠 Modeling &amp; AI</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h4>🔧 Infrastructure &amp; Pipelines</h4>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h4>📦 Multi-Language Dev</h4>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
-    </td>
-  </tr>
-</table>
+| Category | Technologies |
+| :--- | :--- |
+| **🧠 Modeling & AI** | `Python`, `R`, `PyTorch`, `TensorFlow`, `scikit-learn` |
+| **🔧 Infrastructure & Pipelines** | `Docker`, `PostgreSQL`, `AWS`, `GCP`, `Git`, `CI/CD Workflows` |
+| **📦 Multi-Language Dev** | `TypeScript / Node.js`, `Java (Maven)`, `C# (.NET)`, `Ruby` |
 
 ---
 
