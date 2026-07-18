@@ -66,30 +66,9 @@
 
 ## 🏆 Profile Highlights
 
-<table>
-  <tr>
-    <td align="center" width="25%" valign="top">
-      <img src="https://img.shields.io/badge/Paper-Published_Research-1B5E20?style=flat-square" /><br/>
-      <strong>Peer-Reviewed Paper</strong><br/>
-      <sub>MDPI Mathematics, 2025</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <img src="https://img.shields.io/badge/PRs-11_PRs_to_Major_Repos-DC382D?style=flat-square" /><br/>
-      <strong>Open Source Contributor</strong><br/>
-      <sub>qdrant, llama_index, chroma, langflow</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <img src="https://img.shields.io/badge/Packages-3_Published_Packages-3775A9?style=flat-square" /><br/>
-      <strong>Multi-Language Ecosystem</strong><br/>
-      <sub>PyPI · NuGet · RubyGems · Maven</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <img src="https://img.shields.io/badge/AI-Clinical_AI-0A66C2?style=flat-square" /><br/>
-      <strong>Healthcare & Research</strong><br/>
-      <sub>NLP, risk models, genomics</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/highlights.svg" width="100%" alt="Profile Highlights Dashboard" />
+</p>
 
 ---
 
@@ -113,11 +92,34 @@ My research interests include:
 
 ## 🛠️ Technical Skill Matrix
 
-| Category | Technologies |
-| :--- | :--- |
-| **🧠 Modeling & AI** | `Python`, `R`, `PyTorch`, `TensorFlow`, `scikit-learn` |
-| **🔧 Infrastructure & Pipelines** | `Docker`, `PostgreSQL`, `AWS`, `GCP`, `Git`, `CI/CD Workflows` |
-| **📦 Multi-Language Dev** | `TypeScript / Node.js`, `Java (Maven)`, `C# (.NET)`, `Ruby` |
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h4>🧠 Modeling &amp; AI</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h4>🔧 Infrastructure &amp; Pipelines</h4>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h4>📦 Multi-Language Dev</h4>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -134,62 +136,38 @@ My research interests include:
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>📄 <a href="https://github.com/saitejabandaru-in/papersearch-mcp">papersearch-mcp</a></h3>
-      <p><em>Model Context Protocol (MCP) server for scientific literature search.</em></p>
-      <ul>
-        <li>Integrates arXiv and Semantic Scholar directly into AI IDEs.</li>
-        <li>Page-level PDF text extraction and citation graph traversal.</li>
-        <li><strong>Tech:</strong> FastMCP, Python, HTTPX, PyMuPDF.</li>
-      </ul>
+      <h4>📄 <a href="https://github.com/saitejabandaru-in/papersearch-mcp">papersearch-mcp</a></h4>
+      <img src="https://img.shields.io/badge/FastMCP-blue?style=flat-square" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/PyMuPDF-teal?style=flat-square" />
+      <p><sub>Integrates arXiv and Semantic Scholar directly into AI IDEs with page-level PDF extraction and citation graph traversal.</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧬 <a href="https://github.com/saitejabandaru-in/nf-risk-stratification">nf-risk-stratification</a></h3>
-      <p><em>NPC &amp; bootstrap-based clinical risk stratification model.</em></p>
-      <ul>
-        <li>Nonparametric Combination (NPC) for distribution-free inference.</li>
-        <li>Applied to peer-reviewed rare-disease clinical research.</li>
-        <li><strong>Tech:</strong> Python, NumPy, Pandas, SciPy.</li>
-      </ul>
+      <h4>🧬 <a href="https://github.com/saitejabandaru-in/nf-risk-stratification">nf-risk-stratification</a></h4>
+      <img src="https://img.shields.io/badge/NPC-orange?style=flat-square" /> <img src="https://img.shields.io/badge/Bootstrap-green?style=flat-square" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+      <p><sub>Nonparametric Combination (NPC) and bootstrap-based clinical risk stratification model for rare-disease clinical research.</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/saitejabandaru-in/clinical-nlp-ai-platform">clinical-nlp-ai-platform</a></h3>
-      <p><em>Clinical NLP platform for record mining and medical coding.</em></p>
-      <ul>
-        <li>End-to-end pipeline for entity extraction and ICD classification.</li>
-        <li>Privacy-preserving clinical document parsing.</li>
-        <li><strong>Tech:</strong> Python, PyTorch, Transformers, FastAPI.</li>
-      </ul>
+      <h4>🏥 <a href="https://github.com/saitejabandaru-in/clinical-nlp-ai-platform">clinical-nlp-ai-platform</a></h4>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square" /> <img src="https://img.shields.io/badge/Transformers-yellow?style=flat-square" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
+      <p><sub>Clinical NLP platform for unstructured record mining, entity extraction, clinical sentiment analysis, and automated ICD coding.</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/saitejabandaru-in/big-data-clustering-analytics">big-data-clustering-analytics</a></h3>
-      <p><em>Scalable clustering framework for mobility and fraud data.</em></p>
-      <ul>
-        <li>KMeans++, DBSCAN, BIRCH, and OPTICS on 12M+ records.</li>
-        <li>Distributed clustering performance diagnostics.</li>
-        <li><strong>Tech:</strong> Python, scikit-learn, PySpark, Dask.</li>
-      </ul>
+      <h4>📊 <a href="https://github.com/saitejabandaru-in/big-data-clustering-analytics">big-data-clustering-analytics</a></h4>
+      <img src="https://img.shields.io/badge/PySpark-E25A29?style=flat-square" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square" /> <img src="https://img.shields.io/badge/Dask-navy?style=flat-square" />
+      <p><sub>Scalable clustering framework (KMeans++, DBSCAN, BIRCH, OPTICS) applied to NYC Taxi mobility (12M+) and fraud detection.</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔬 <a href="https://github.com/saitejabandaru-in/nonparam-comb">nonparam-comb</a></h3>
-      <p><em>Pip-installable nonparametric combination statistical toolkit.</em></p>
-      <ul>
-        <li>Multi-criteria permutation testing and resampling algorithms.</li>
-        <li>Clean, modular API for scientific data research.</li>
-        <li><strong>Tech:</strong> Python, NumPy, SciPy.</li>
-      </ul>
+      <h4>🔬 <a href="https://github.com/saitejabandaru-in/nonparam-comb">nonparam-comb</a></h4>
+      <img src="https://img.shields.io/badge/Python_Package-blue?style=flat-square" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square" /> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square" />
+      <p><sub>General-purpose statistical library for Nonparametric Combination of permutation tests and multi-criteria severity ranking.</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔄 <a href="https://github.com/saitejabandaru-in/vector-sync-engine">vector-sync-engine</a></h3>
-      <p><em>Cross-engine vector database synchronization and migration tool.</em></p>
-      <ul>
-        <li>Seamlessly migrates and syncs embeddings between vector stores.</li>
-        <li>Containerized microservice with zero-downtime replication.</li>
-        <li><strong>Tech:</strong> TypeScript, Docker, Chroma, Qdrant.</li>
-      </ul>
+      <h4>🔄 <a href="https://github.com/saitejabandaru-in/vector-sync-engine">vector-sync-engine</a></h4>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" /> <img src="https://img.shields.io/badge/Vector_DB-purple?style=flat-square" />
+      <p><sub>Containerized cross-engine vector database synchronization tool to migrate and replicate embeddings between Chroma and Qdrant.</sub></p>
     </td>
   </tr>
 </table>
@@ -235,25 +213,25 @@ I actively contribute to major AI/ML open-source projects with bug fixes, perfor
 <table width="100%">
   <tr>
     <td align="center" width="33%" valign="top">
+      <h4>NuGet Registry</h4>
       <a href="https://www.nuget.org/packages/LlmProof.Finance">
-        <img src="https://img.shields.io/badge/NuGet-LlmProof.Finance-004880?style=flat-square&logo=nuget&logoColor=white" />
-      </a><br/>
-      <sub><strong>C# / .NET</strong></sub><br/>
-      <sub>AI Trading Agent &amp; Portfolio Strategy Validator using SPRT, Sharpe/Sortino Ratios</sub>
+        <img src="https://img.shields.io/badge/NuGet-LlmProof.Finance-004880?style=for-the-badge&logo=nuget&logoColor=white" />
+      </a>
+      <p><sub><strong>C# / .NET</strong> — AI Trading Agent &amp; Portfolio Strategy Validator utilizing SPRT and Sharpe/Sortino ratios.</sub></p>
     </td>
     <td align="center" width="33%" valign="top">
+      <h4>RubyGems Registry</h4>
       <a href="https://rubygems.org/gems/llm_financial_auditor">
-        <img src="https://img.shields.io/badge/RubyGems-llm__financial__auditor-CC342D?style=flat-square&logo=rubygems&logoColor=white" />
-      </a><br/>
-      <sub><strong>Ruby</strong></sub><br/>
-      <sub>AI Financial Fraud &amp; Anomalous Transaction Auditor with consensus verification</sub>
+        <img src="https://img.shields.io/badge/RubyGems-llm__financial__auditor-CC342D?style=for-the-badge&logo=rubygems&logoColor=white" />
+      </a>
+      <p><sub><strong>Ruby</strong> — AI Financial Fraud &amp; Anomalous Transaction Auditor with consensus-based verification layers.</sub></p>
     </td>
     <td align="center" width="33%" valign="top">
+      <h4>Maven Central</h4>
       <a href="https://central.sonatype.com/artifact/io.github.saitejabandaru-in/llm-proof-credit-risk">
-        <img src="https://img.shields.io/badge/Maven-llm--proof--credit--risk-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
-      </a><br/>
-      <sub><strong>Java</strong></sub><br/>
-      <sub>Demographic Fairness Credit Risk Evaluator with bias metrics</sub>
+        <img src="https://img.shields.io/badge/Maven-llm--proof--credit-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+      </a>
+      <p><sub><strong>Java</strong> — Demographic Fairness &amp; Credit Risk Evaluator utilizing bias mitigation metrics.</sub></p>
     </td>
   </tr>
 </table>

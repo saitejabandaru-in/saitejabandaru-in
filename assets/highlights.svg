@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
+  <defs>
+    <!-- Background Gradients for each card -->
+    <linearGradient id="cardGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14201a" />
+      <stop offset="100%" stop-color="#0b100d" />
+    </linearGradient>
+    <linearGradient id="cardGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#241320" />
+      <stop offset="100%" stop-color="#0f070e" />
+    </linearGradient>
+    <linearGradient id="cardGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141d2f" />
+      <stop offset="100%" stop-color="#0b101b" />
+    </linearGradient>
+    <linearGradient id="cardGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1c1936" />
+      <stop offset="100%" stop-color="#0c0a1a" />
+    </linearGradient>
+
+    <!-- Border Gradients -->
+    <linearGradient id="border1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1b5e20" />
+      <stop offset="100%" stop-color="#0d240e" />
+    </linearGradient>
+    <linearGradient id="border2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#db7093" />
+      <stop offset="100%" stop-color="#3d1424" />
+    </linearGradient>
+    <linearGradient id="border3" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4F7CAC" />
+      <stop offset="100%" stop-color="#1d2c42" />
+    </linearGradient>
+    <linearGradient id="border4" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#4c1d95" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card 1 -->
+  <g transform="translate(5, 5)">
+    <rect width="215" height="110" rx="14" fill="url(#cardGrad1)" stroke="url(#border1)" stroke-width="1.5" />
+    <path d="M 12 5 L 203 5" stroke="#22c55e" stroke-width="2.5" stroke-linecap="round" />
+    <text x="15" y="32" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="800" fill="#22c55e" letter-spacing="1">RESEARCH PAPER</text>
+    <text x="15" y="55" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#ffffff">MDPI Mathematics</text>
+    <text x="15" y="75" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#94a3b8">Permutation &amp; Bootstrap</text>
+    <text x="15" y="92" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#6c7a89">Published 2025</text>
+  </g>
+
+  <!-- Card 2 -->
+  <g transform="translate(228, 5)">
+    <rect width="215" height="110" rx="14" fill="url(#cardGrad2)" stroke="url(#border2)" stroke-width="1.5" />
+    <path d="M 12 5 L 203 5" stroke="#ec4899" stroke-width="2.5" stroke-linecap="round" />
+    <text x="15" y="32" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="800" fill="#ec4899" letter-spacing="1">OPEN SOURCE</text>
+    <text x="15" y="55" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#ffffff">Active Contributor</text>
+    <text x="15" y="75" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">qdrant, llama_index,</text>
+    <text x="15" y="92" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#6c7a89">chroma, langflow, milvus</text>
+  </g>
+
+  <!-- Card 3 -->
+  <g transform="translate(451, 5)">
+    <rect width="215" height="110" rx="14" fill="url(#cardGrad3)" stroke="url(#border3)" stroke-width="1.5" />
+    <path d="M 12 5 L 203 5" stroke="#3b82f6" stroke-width="2.5" stroke-linecap="round" />
+    <text x="15" y="32" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="800" fill="#3b82f6" letter-spacing="1">SDK PACKAGES</text>
+    <text x="15" y="55" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#ffffff">Multi-Language Ecosystem</text>
+    <text x="15" y="75" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#94a3b8">PyPI · NuGet · RubyGems</text>
+    <text x="15" y="92" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#6c7a89">Sonatype Maven Central</text>
+  </g>
+
+  <!-- Card 4 -->
+  <g transform="translate(674, 5)">
+    <rect width="215" height="110" rx="14" fill="url(#cardGrad4)" stroke="url(#border4)" stroke-width="1.5" />
+    <path d="M 12 5 L 203 5" stroke="#a78bfa" stroke-width="2.5" stroke-linecap="round" />
+    <text x="15" y="32" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="800" fill="#c084fc" letter-spacing="1">HEALTHCARE &amp; AI</text>
+    <text x="15" y="55" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#ffffff">Biomedical NLP Models</text>
+    <text x="15" y="75" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Risk Stratification &amp; NLP</text>
+    <text x="15" y="92" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#6c7a89">Clinical Record Mining</text>
+  </g>
+</svg>
