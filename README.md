@@ -243,38 +243,32 @@ This work introduces a permutation-based, nonparametric framework for analyzing 
   <tr>
     <td align="center" width="16%" valign="top">
       <a href="https://www.saitejabandaru.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Website-12100E?style=for-the-badge&logo=google-chrome&logoColor=white" /><br/>
-        <sub>saitejabandaru.com</sub>
+        <img src="assets/profile_web.svg" width="100%" alt="Website" />
       </a>
     </td>
     <td align="center" width="16%" valign="top">
       <a href="https://scholar.google.com/citations?user=lVrMCY4AAAAJ&hl=en" target="_blank">
-        <img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /><br/>
-        <sub>Google Scholar</sub>
+        <img src="assets/profile_scholar.svg" width="100%" alt="Google Scholar" />
       </a>
     </td>
     <td align="center" width="16%" valign="top">
       <a href="https://sciprofiles.com/profile/saitejabandaru" target="_blank">
-        <img src="https://img.shields.io/badge/SciProfiles-1B5E20?style=for-the-badge&logo=mdpi&logoColor=white" /><br/>
-        <sub>MDPI Profiles</sub>
+        <img src="assets/profile_mdpi.svg" width="100%" alt="SciProfiles" />
       </a>
     </td>
     <td align="center" width="16%" valign="top">
       <a href="https://orcid.org/0009-0006-7797-2635" target="_blank">
-        <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /><br/>
-        <sub>0009-0006-7797-2635</sub>
+        <img src="assets/profile_orcid.svg" width="100%" alt="ORCID" />
       </a>
     </td>
     <td align="center" width="16%" valign="top">
       <a href="https://www.researchgate.net/profile/Sai-Teja-Bandaru" target="_blank">
-        <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /><br/>
-        <sub>ResearchGate</sub>
+        <img src="assets/profile_rg.svg" width="100%" alt="ResearchGate" />
       </a>
     </td>
     <td align="center" width="16%" valign="top">
       <a href="https://www.linkedin.com/in/saitejabandaru-ds/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
-        <sub>saitejabandaru-ds</sub>
+        <img src="assets/profile_linkedin.svg" width="100%" alt="LinkedIn" />
       </a>
     </td>
   </tr>
