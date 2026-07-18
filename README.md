@@ -10,6 +10,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1200&color=4F7CAC&center=true&vCenter=true&width=900&lines=Data+Science+with+clarity;AI+research+with+intent;Understanding+models+before+deploying+them;Published+researcher+%7C+Open-source+contributor+%7C+Multi-language+engineer" />
 </p>
 
+<!-- ========================================== -->
+<!-- 🚀 DYNAMIC CALL-TO-ACTION CARD DECK        -->
+<!-- ========================================== -->
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%" valign="top">
@@ -42,7 +45,9 @@
   <a href="https://www.nuget.org/packages/LlmProof.Finance"><img src="https://img.shields.io/badge/NuGet-LlmProof.Finance-004880?style=for-the-badge&logo=nuget&logoColor=white"/></a>
 </p>
 
-📌 *I work at the intersection of statistical theory, interpretable machine learning, and real-world clinical data.*
+<p align="center">
+  📌 <em>I work at the intersection of statistical theory, interpretable machine learning, and real-world clinical data.</em>
+</p>
 
 ---
 
@@ -59,26 +64,26 @@
 
 ---
 
-## 🏆 Highlights
+## 🏆 Profile Highlights
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="25%" valign="top">
       <img src="https://img.shields.io/badge/Paper-Published_Research-1B5E20?style=flat-square" /><br/>
       <strong>Peer-Reviewed Paper</strong><br/>
       <sub>MDPI Mathematics, 2025</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" valign="top">
       <img src="https://img.shields.io/badge/PRs-11_PRs_to_Major_Repos-DC382D?style=flat-square" /><br/>
       <strong>Open Source Contributor</strong><br/>
       <sub>qdrant, llama_index, chroma, langflow</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" valign="top">
       <img src="https://img.shields.io/badge/Packages-3_Published_Packages-3775A9?style=flat-square" /><br/>
       <strong>Multi-Language Ecosystem</strong><br/>
       <sub>PyPI · NuGet · RubyGems · Maven</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" valign="top">
       <img src="https://img.shields.io/badge/AI-Clinical_AI-0A66C2?style=flat-square" /><br/>
       <strong>Healthcare & Research</strong><br/>
       <sub>NLP, risk models, genomics</sub>
@@ -92,27 +97,27 @@
 
 > **"Models should not only predict well — they should explain well."**
 
-I approach modeling through three principles:
-1. **Statistical validity before scale**
-2. **Interpretability before optimization**
-3. **Domain meaning before deployment**
+I approach modeling through three core principles:
+1. **Statistical validity before scale** — Ensuring assumptions and tests are mathematically grounded before scaling computation.
+2. **Interpretability before optimization** — Understanding feature importance and logic paths before squeezing marginal decimal gains.
+3. **Domain meaning before deployment** — Ensuring features translate directly to clinical or business reality.
 
 My research interests include:
-- interpretable and explainable machine learning (post-hoc & intrinsic)
-- permutation-based, resampling, and nonparametric inference
-- dimensionality reduction with geometric and statistical intuition
-- robustness, stability, and noise-aware modeling
-- translating statistical theory into clinically actionable insights
+* Permutation-based, resampling, and nonparametric inference
+* Interpretable and explainable machine learning (post-hoc & intrinsic)
+* Dimensionality reduction with geometric and statistical intuition
+* Robustness, stability, and noise-aware modeling
+* Translating statistical theory into clinically actionable insights
 
 ---
 
-## 🛠️ Core Stack
+## 🛠️ Technical Skill Matrix
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,pytorch,tensorflow,sklearn,fastapi,docker,linux,git,ts,java,ruby,dotnet,postgres,aws,gcp&theme=light" />
-</p>
-
-> Used for statistical modeling, interpretability research, clinical AI systems, and multi-language package development.
+| Category | Technologies |
+| :--- | :--- |
+| **🧠 Modeling & AI** | `Python`, `R`, `PyTorch`, `TensorFlow`, `scikit-learn` |
+| **🔧 Infrastructure & Pipelines** | `Docker`, `PostgreSQL`, `AWS`, `GCP`, `Git`, `CI/CD Workflows` |
+| **📦 Multi-Language Dev** | `TypeScript / Node.js`, `Java (Maven)`, `C# (.NET)`, `Ruby` |
 
 ---
 
@@ -126,37 +131,68 @@ My research interests include:
 
 ## 🚀 Featured Open Source Projects
 
-### 📄 [papersearch-mcp](https://github.com/saitejabandaru-in/papersearch-mcp)
-*An Model Context Protocol (MCP) server for searching, analyzing, and retrieving academic papers.*
-- **Purpose**: Integrates arXiv and Semantic Scholar directly into AI coding assistants (like Claude Code/Desktop).
-- **Features**: Page-level text extraction from PDFs using PyMuPDF (fitz), citation graph traversal, and advanced search filters.
-- **Tech**: FastMCP, Python, HTTPX, PyMuPDF.
-
-### 🧬 [nf-risk-stratification](https://github.com/saitejabandaru-in/nf-risk-stratification)
-*Nonparametric Combination (NPC) and bootstrap-based risk stratification model.*
-- **Purpose**: Reproducible statistical analysis framework for our peer-reviewed research in Necrotizing Fasciitis.
-- **Published**: [MDPI Mathematics, 2025](https://www.mdpi.com/2227-7390/13/17/2869)
-- **Tech**: Python, NumPy, Pandas, Scipy.
-
-### 🏥 [clinical-nlp-ai-platform](https://github.com/saitejabandaru-in/clinical-nlp-ai-platform)
-*End-to-end clinical NLP platform for medical entity extraction, clinical sentiment analysis, topic modeling, and automated ICD coding.*
-- **Purpose**: Privacy-preserving processing and deep learning pipelines for unstructured health records.
-- **Tech**: Python, PyTorch, Transformers, FastAPI.
-
-### 📊 [big-data-clustering-analytics](https://github.com/saitejabandaru-in/big-data-clustering-analytics)
-*Scalable clustering framework for big data using KMeans++, DBSCAN, BIRCH, OPTICS and DENCLUE.*
-- **Applied to**: NYC Taxi mobility analytics (12M+ records) and credit card fraud detection (1M+ transactions).
-- **Tech**: Python, scikit-learn, PySpark, Dask.
-
-### 🔬 [nonparam-comb](https://github.com/saitejabandaru-in/nonparam-comb)
-*General-purpose library for Nonparametric Combination (NPC) of permutation tests, bootstrap resampling, and multi-criteria severity ranking.*
-- **Purpose**: Pip-installable statistical toolkit for distribution-free, small-sample inference.
-- **Tech**: Python, NumPy, SciPy.
-
-### 🔄 [vector-sync-engine](https://github.com/saitejabandaru-in/vector-sync-engine)
-*Universal vector database migration & sync tool — migrates embeddings between Chroma, Qdrant, and other search engines.*
-- **Purpose**: One-container solution for cross-engine embedding migration.
-- **Tech**: TypeScript, Docker, Chroma, Qdrant.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 <a href="https://github.com/saitejabandaru-in/papersearch-mcp">papersearch-mcp</a></h3>
+      <p><em>Model Context Protocol (MCP) server for scientific literature search.</em></p>
+      <ul>
+        <li>Integrates arXiv and Semantic Scholar directly into AI IDEs.</li>
+        <li>Page-level PDF text extraction and citation graph traversal.</li>
+        <li><strong>Tech:</strong> FastMCP, Python, HTTPX, PyMuPDF.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧬 <a href="https://github.com/saitejabandaru-in/nf-risk-stratification">nf-risk-stratification</a></h3>
+      <p><em>NPC &amp; bootstrap-based clinical risk stratification model.</em></p>
+      <ul>
+        <li>Nonparametric Combination (NPC) for distribution-free inference.</li>
+        <li>Applied to peer-reviewed rare-disease clinical research.</li>
+        <li><strong>Tech:</strong> Python, NumPy, Pandas, SciPy.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 <a href="https://github.com/saitejabandaru-in/clinical-nlp-ai-platform">clinical-nlp-ai-platform</a></h3>
+      <p><em>Clinical NLP platform for record mining and medical coding.</em></p>
+      <ul>
+        <li>End-to-end pipeline for entity extraction and ICD classification.</li>
+        <li>Privacy-preserving clinical document parsing.</li>
+        <li><strong>Tech:</strong> Python, PyTorch, Transformers, FastAPI.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/saitejabandaru-in/big-data-clustering-analytics">big-data-clustering-analytics</a></h3>
+      <p><em>Scalable clustering framework for mobility and fraud data.</em></p>
+      <ul>
+        <li>KMeans++, DBSCAN, BIRCH, and OPTICS on 12M+ records.</li>
+        <li>Distributed clustering performance diagnostics.</li>
+        <li><strong>Tech:</strong> Python, scikit-learn, PySpark, Dask.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔬 <a href="https://github.com/saitejabandaru-in/nonparam-comb">nonparam-comb</a></h3>
+      <p><em>Pip-installable nonparametric combination statistical toolkit.</em></p>
+      <ul>
+        <li>Multi-criteria permutation testing and resampling algorithms.</li>
+        <li>Clean, modular API for scientific data research.</li>
+        <li><strong>Tech:</strong> Python, NumPy, SciPy.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔄 <a href="https://github.com/saitejabandaru-in/vector-sync-engine">vector-sync-engine</a></h3>
+      <p><em>Cross-engine vector database synchronization and migration tool.</em></p>
+      <ul>
+        <li>Seamlessly migrates and syncs embeddings between vector stores.</li>
+        <li>Containerized microservice with zero-downtime replication.</li>
+        <li><strong>Tech:</strong> TypeScript, Docker, Chroma, Qdrant.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -173,7 +209,7 @@ I actively contribute to major AI/ML open-source projects with bug fixes, perfor
 | **[logspace-ai/langflow](https://github.com/logspace-ai/langflow)** | [#14051](https://github.com/logspace-ai/langflow/pull/14051) | Workflow engine enhancement | 🔍 Under Review |
 | **[lancedb/lancedb](https://github.com/lancedb/lancedb)** | [#3661](https://github.com/lancedb/lancedb/pull/3661) | Retrieval pipeline fix | ✅ Approved |
 | **[milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)** | [#3686](https://github.com/milvus-io/pymilvus/pull/3686) | Python SDK improvement | 🔍 Under Review |
-| **[explodinggradients/ragas](https://github.com/explodinggradients/ragas)** | [#2850](https://github.com/explodinggradients/ragas/pull/2850) | Evaluation framework fix | 🔍 Under Review |
+| **[explodinggradients/ragas](https://github.com/explodinggradients/ragas)** | [#2850](https://github.com/vibrantlabsai/ragas/pull/2850) | Evaluation framework fix | 🔍 Under Review |
 | **[cleanlab/cleanlab](https://github.com/cleanlab/cleanlab)** | [#1321](https://github.com/cleanlab/cleanlab/pull/1321) | Data-centric AI enhancement | 🔍 Under Review |
 | **[public-apis/public-apis](https://github.com/public-apis/public-apis)** | [#6592](https://github.com/public-apis/public-apis/issues/6592) | Reported 5 broken API links | 📋 Issue Filed |
 <!-- END_OSS_TABLE -->
@@ -196,23 +232,23 @@ I actively contribute to major AI/ML open-source projects with bug fixes, perfor
 
 ## 📦 Published Packages
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
       <a href="https://www.nuget.org/packages/LlmProof.Finance">
         <img src="https://img.shields.io/badge/NuGet-LlmProof.Finance-004880?style=flat-square&logo=nuget&logoColor=white" />
       </a><br/>
       <sub><strong>C# / .NET</strong></sub><br/>
-      <sub>AI Trading Agent & Portfolio Strategy Validator using SPRT, Sharpe/Sortino Ratios</sub>
+      <sub>AI Trading Agent &amp; Portfolio Strategy Validator using SPRT, Sharpe/Sortino Ratios</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
       <a href="https://rubygems.org/gems/llm_financial_auditor">
         <img src="https://img.shields.io/badge/RubyGems-llm__financial__auditor-CC342D?style=flat-square&logo=rubygems&logoColor=white" />
       </a><br/>
       <sub><strong>Ruby</strong></sub><br/>
-      <sub>AI Financial Fraud & Anomalous Transaction Auditor with consensus verification</sub>
+      <sub>AI Financial Fraud &amp; Anomalous Transaction Auditor with consensus verification</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
       <a href="https://central.sonatype.com/artifact/io.github.saitejabandaru-in/llm-proof-credit-risk">
         <img src="https://img.shields.io/badge/Maven-llm--proof--credit--risk-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
       </a><br/>
@@ -237,13 +273,12 @@ This work introduces a permutation-based, nonparametric framework for analyzing 
 
 ---
 
-## 🔍 Current Directions
+## 🔍 Current Research Directions
 
-- permutation-based inference for small-sample biomedical studies  
-- interpretability under distribution shift  
-- robustness diagnostics for clinical ML models  
-- statistical foundations of explainable AI  
-- MCP tool development for research workflows  
+* 🧬 **Biomedical Inference**: Permutation-based, nonparametric tests for small-sample and rare-disease studies.
+* 📈 **Interpretability under Shift**: Feature attribution methods that remain robust under covariance and distribution shifts.
+* 🛡️ **Model Diagnostics**: Developing automated validation suites for clinical model stability, safety, and robustness.
+* 🔧 **Ecosystem Tooling**: Constructing FastMCP servers to integrate scientific and literature databases into agentic search.
 
 ---
 
@@ -277,24 +312,11 @@ This work introduces a permutation-based, nonparametric framework for analyzing 
 
 ---
 
-## 🚀 What You'll Find Here
-
-- 📘 math and statistics-first explanations of ML & AI  
-- 🧪 reproducible experiments with robust inference  
-- 📊 real-world clinical and analytical datasets  
-- 🧠 research-oriented notebooks focused on *why*, not just *how*  
-- 🔧 production tools — MCP servers, vector sync engines, ETL frameworks  
-- 📦 multi-language packages published on PyPI, NuGet, RubyGems, Maven  
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1600&color=4F7CAC&center=true&vCenter=true&width=900&lines=If+you+care+about+interpretable+AI+and+rigorous+statistics%2C+we'll+have+good+conversations.;Feel+free+to+explore%2C+fork%2C+or+connect.;Open+to+collaborations+on+clinical+AI+and+statistical+ML." />
+  If you are passionate about interpretable machine learning, rigorous statistical modeling, or open-source infrastructure, feel free to reach out. I am always open to deep technical discussions, research collaborations, or custom AI agent engineering.
 </p>
-
-⭐ *Thoughtful questions and rigorous discussions are always welcome.*
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F7CAC,100:1C2B36&height=100&section=footer" />
