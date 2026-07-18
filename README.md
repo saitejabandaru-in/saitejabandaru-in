@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  📌 <strong>AI Systems Engineer &amp; Open Source Builder</strong> specializing in <strong>Interpretable ML</strong>, <strong>Vector Databases (Qdrant/Chroma)</strong>, and <strong>Custom AI Agents</strong> — building production-ready, mathematically rigorous intelligence pipelines for global startups and research teams.
+  📌 <strong>AI Systems Engineer &amp; Open Source Builder</strong> specializing in <strong>Interpretable ML</strong>, <strong>Vector Databases (Qdrant/Chroma)</strong>, and <strong>Custom AI Agents</strong> for global startups &amp; research teams.
 </p>
 
 ---
