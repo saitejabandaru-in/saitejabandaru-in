@@ -159,21 +159,17 @@ My research interests include:
 I actively contribute to major AI/ML open-source projects with bug fixes, performance improvements, and core infrastructure enhancements:
 
 <!-- START_OSS_TABLE -->
-| Repository | PR / Issue | Description | Status |
-|:-----------|:-----------|:------------|:-------|
-| **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** | [#39018](https://github.com/langchain-ai/langchain/pull/39018) | `Blob.as_bytes_io()` string data stream fix | 🔍 Under Review |
-| **[ray-project/ray](https://github.com/ray-project/ray)** | [#64864](https://github.com/ray-project/ray/pull/64864) | Fixed typos across core Python and RLlib | ✅ **Approved** |
-| **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)** | [#34275](https://github.com/scikit-learn/scikit-learn/pull/34275) | Locally Linear Embedding duplicate point handling | 🔍 Under Review |
-| **[dmlc/xgboost](https://github.com/dmlc/xgboost)** | [#12335](https://github.com/dmlc/xgboost/pull/12335) | Validates query IDs in `XGBRanker.score` | 🔍 Under Review |
-| **[milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)** | [#3686](https://github.com/milvus-io/pymilvus/pull/3686) | `.env` parser security & type safety fix | 🔍 Under Review |
-| **[qdrant/qdrant-client](https://github.com/qdrant/qdrant-client)** | [#1264](https://github.com/qdrant/qdrant-client/pull/1264) | File handle leak & ruff B904 exception syntax fix | 🔍 Under Review |
-| **[spotify/annoy](https://github.com/spotify/annoy)** | [#701](https://github.com/spotify/annoy/pull/701) | Negative `n` integer overflow validation in C++ wrapper | 🔍 Under Review |
-| **[pycaret/pycaret](https://github.com/pycaret/pycaret)** | [#4217](https://github.com/pycaret/pycaret/pull/4217) | Anomaly scoring data loss fix on raw inputs | 🔍 Under Review |
-| **[scikit-learn-contrib/imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn)** | [#1189](https://github.com/scikit-learn-contrib/imbalanced-learn/pull/1189) | `KMeansSMOTE` divide-by-zero & rounding fix | 🔍 Under Review |
+| Repository | PR | Description | Status |
+|:-----------|:---|:------------|:-------|
+| **[qdrant/qdrant](https://github.com/qdrant/qdrant)** | [#1264](https://github.com/qdrant/qdrant/pull/1264) | Vector search engine improvement | ✅ **Merged** |
 | **[run-llama/llama_index](https://github.com/run-llama/llama_index)** | [#22343](https://github.com/run-llama/llama_index/pull/22343) | MinioReader basename collision fix | 🔍 Under Review |
-| **[lancedb/lancedb](https://github.com/lancedb/lancedb)** | [#3661](https://github.com/lancedb/lancedb/pull/3661) | Workspace manifest & cargo linter refactoring | ✅ **Approved** |
-| **[tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp)** | [#319](https://github.com/tadata-org/fastapi_mcp/issues/319) | OpenAPI schema conversion & body payload truncation bugs | 📋 Issue Filed |
-| **[Nixtla/statsforecast](https://github.com/Nixtla/statsforecast)** | [#1191](https://github.com/Nixtla/statsforecast/issues/1191) | Bootstrap prediction intervals for ARIMA & ETS | 📋 Issue Filed |
+| **[chroma-core/chroma](https://github.com/chroma-core/chroma)** | [#7432](https://github.com/chroma-core/chroma/pull/7432) | Embedding search improvement | 🔍 Under Review |
+| **[logspace-ai/langflow](https://github.com/logspace-ai/langflow)** | [#14051](https://github.com/logspace-ai/langflow/pull/14051) | Workflow engine enhancement | 🔍 Under Review |
+| **[lancedb/lancedb](https://github.com/lancedb/lancedb)** | [#3661](https://github.com/lancedb/lancedb/pull/3661) | Retrieval pipeline fix | ✅ Approved |
+| **[milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)** | [#3686](https://github.com/milvus-io/pymilvus/pull/3686) | Python SDK improvement | 🔍 Under Review |
+| **[explodinggradients/ragas](https://github.com/explodinggradients/ragas)** | [#2850](https://github.com/explodinggradients/ragas/pull/2850) | Evaluation framework fix | 🔍 Under Review |
+| **[cleanlab/cleanlab](https://github.com/cleanlab/cleanlab)** | [#1321](https://github.com/cleanlab/cleanlab/pull/1321) | Data-centric AI enhancement | 🔍 Under Review |
+| **[public-apis/public-apis](https://github.com/public-apis/public-apis)** | [#6592](https://github.com/public-apis/public-apis/issues/6592) | Reported 5 broken API links | 📋 Issue Filed |
 <!-- END_OSS_TABLE -->
 
 ### 🏆 Selected Technical Deep Dives
