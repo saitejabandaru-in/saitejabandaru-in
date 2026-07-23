@@ -165,7 +165,7 @@ I actively contribute to major AI/ML open-source projects with bug fixes, perfor
 | **[run-llama/llama_index](https://github.com/run-llama/llama_index)** | [#22343](https://github.com/run-llama/llama_index/pull/22343) | MinioReader basename collision fix | 🔍 Under Review |
 | **[chroma-core/chroma](https://github.com/chroma-core/chroma)** | [#7432](https://github.com/chroma-core/chroma/pull/7432) | Embedding search improvement | 🔍 Under Review |
 | **[logspace-ai/langflow](https://github.com/logspace-ai/langflow)** | [#14051](https://github.com/logspace-ai/langflow/pull/14051) | Workflow engine enhancement | 🔍 Under Review |
-| **[lancedb/lancedb](https://github.com/lancedb/lancedb)** | [#3661](https://github.com/lancedb/lancedb/pull/3661) | Retrieval pipeline fix | ✅ Approved |
+| **[lancedb/lancedb](https://github.com/lancedb/lancedb)** | [#3661](https://github.com/lancedb/lancedb/pull/3661) | Retrieval pipeline fix | 🏁 Closed |
 | **[milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)** | [#3686](https://github.com/milvus-io/pymilvus/pull/3686) | Python SDK improvement | 🔍 Under Review |
 | **[explodinggradients/ragas](https://github.com/explodinggradients/ragas)** | [#2850](https://github.com/explodinggradients/ragas/pull/2850) | Evaluation framework fix | 🔍 Under Review |
 | **[cleanlab/cleanlab](https://github.com/cleanlab/cleanlab)** | [#1321](https://github.com/cleanlab/cleanlab/pull/1321) | Data-centric AI enhancement | 🔍 Under Review |
